@@ -5,67 +5,80 @@
 
 const perguntas = [
     {
-        enunciado: "Pergunta?",
+        enunciado: "Você prefere fazer seu hobby em casa ou fora de casa?",
         alternativas: [
             {
-                texto: " Texto/resposta",
-                afirmacao: " Afirmação ",
+                texto: "Fazer seu hobby em casa.",
+                afirmacao: "Você se sente mais confortável e relaxado ao praticar seu hobby no ambiente de casa.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Fazer seu hobby fora de casa.",
+                afirmacao: "Você gosta de explorar novos lugares e aproveitar o ar livre ao realizar seu hobby.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Com que frequência você pratica seu hobby?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Todos os dias ou quase todos os dias.",
+                afirmacao: "Você integra seu hobby na rotina diária para manter o equilíbrio e o prazer constante.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Algumas vezes por semana ou menos.",
+                afirmacao: "Você prefere reservar momentos especiais para seu hobby, tornando-o uma recompensa ocasional.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Você prefere hobbies criativos ou físicos?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Hobbies criativos, como pintar ou escrever.",
+                afirmacao: "Você gosta de expressar ideias e emoções através de criações artísticas e imaginativas.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Hobbies físicos, como correr ou dançar.",
+                afirmacao: "Você valoriza o movimento e a energia que os hobbies ativos trazem para o corpo e a mente.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Você compartilha seu hobby com outras pessoas?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Você compartilha seu hobby com outras pessoas?",
+                afirmacao: "Você encontra mais diversão ao conectar-se com outros e trocar experiências no hobby.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Você aprecia a introspecção e o foco pessoal que um hobby solitário proporciona.",
+                afirmacao: "Você aprecia a introspecção e o foco pessoal que um hobby solitário proporciona.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Qual é o melhor horário do dia para seu hobby?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: "De manhã ou à tarde.",
+                afirmacao: "Você usa o hobby para energizar o dia e manter a produtividade alta.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "À noite ou antes de dormir",
+                afirmacao: "Você relaxa com o hobby no final do dia, ajudando a desconectar e descansar melhor.",
+            }
+        ]
+    },
+ {
+        enunciado: "Você já pensou em transformar seu hobby em profissão?",
+        alternativas: [
+            {
+                texto: "Sim, adoraria trabalhar com isso.",
+                afirmacao: "Você sonha em unir paixão e carreira para uma vida mais realizada profissionalmente.",
+            },
+            {
+                texto: "Não, prefiro mantê-lo como lazer.",
+                afirmacao: "Você preserva o hobby como um escape puro, sem pressões de trabalho ou obrigações.",
             }
         ]
     },
