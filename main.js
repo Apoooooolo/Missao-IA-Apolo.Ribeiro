@@ -90,12 +90,12 @@ const perguntas = [
     },
 ];
 
-let atual = 0
-let perguntaAtual
+let atual = 0;
+let perguntaAtual;
 
 function mostraPerguntas(){
     perguntaAtual = perguntas[atual];
-    caixaPerguntas.textContent = perguntaAtual.enunciado
+    caixaPerguntas.textContent = perguntaAtual.enunciado;
 }
 
 mostraPerguntas();
