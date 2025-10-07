@@ -100,4 +100,3 @@ function mostraPerguntas(){
 
 mostraPerguntas();
 
-onCommand:vscode-pets.start
