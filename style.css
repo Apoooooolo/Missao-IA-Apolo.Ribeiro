@@ -1,5 +1,5 @@
 :root {
-    --cor-fundo: linear-gradient() #ffc400, #cc470a, #fd2bf2;
+    --cor-fundo: linear-gradient: #ffc400, #cc470a, #fd2bf2;
     --cor-principal: #040a3b;
     --cor-secundaria: #400ba3;
     --cor-destaque: #fd2bf2;
