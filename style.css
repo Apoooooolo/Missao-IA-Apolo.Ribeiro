@@ -1,10 +1,16 @@
 :root {
-    --cor-fundo: linear-gradient: #ffc400, #cc470a, #fd2bf2;
+   background: linear-gradient(
+  to down,      /* Direção */
+  #ffc400,0%,        /* Primeira cor, começa em 0% */
+  #cc470a, 50%,     /* Segunda cor, começa em 50% */
+ #fd2bf2, 100%      /* Terceira cor, começa em 100% */
+);
+
     --cor-principal: #040a3b;
     --cor-secundaria: #400ba3;
     --cor-destaque: #fd2bf2;
     --cor-texto: #D7F9FF;
-}
+}   #ffc400, #cc470a, #fd2bf2;
 
 body {
     background-color: var(--cor-fundo);
