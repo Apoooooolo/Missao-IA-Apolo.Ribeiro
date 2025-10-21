@@ -53,11 +53,11 @@ const perguntas = [
         enunciado: "Você compartilha seu hobby com outras pessoas?",
         alternativas: [
             {
-                texto: "Você compartilha seu hobby com outras pessoas?",
+                texto: "sim, gosto de fazer com amigos ou família",
                 afirmacao: "Você encontra mais diversão ao conectar-se com outros e trocar experiências no hobby.",
             },
             {
-                texto: "Você aprecia a introspecção e o foco pessoal que um hobby solitário proporciona.",
+                texto: "Não, prefiro praticar sozinho.",
                 afirmacao: "Você aprecia a introspecção e o foco pessoal que um hobby solitário proporciona.",
             }
         ]
